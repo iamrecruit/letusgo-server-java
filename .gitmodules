@@ -1,0 +1,6 @@
+[submodule "WangyufeiAndWangximing"]
+	path = WangyufeiAndWangximing
+	url = git@github.com:sorashiro/letusgo-server-spring.git
+[submodule "LiyanziAndXueqian"]
+	path = LiyanziAndXueqian
+	url = git@github.com:XueQian/letusgo-server-spring.git
