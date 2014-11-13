@@ -4,3 +4,12 @@
 [submodule "LiyanziAndXueqian"]
 	path = LiyanziAndXueqian
 	url = git@github.com:XueQian/letusgo-server-spring.git
+[submodule "Zhangwei"]
+	path = Zhangwei
+	url = git@github.com:lzhangwei/letusgo-server-spring.git
+[submodule "WanghuanAndZhangzhihui"]
+	path = WanghuanAndZhangzhihui
+	url = git@github.com:adabeauty/letusgo_server-spring-mvc.git
+[submodule "CuifugangAndSukai"]
+	path = CuifugangAndSukai
+	url = git@github.com:SnakeWorker/Letusgo-server-SpringMVC.git
